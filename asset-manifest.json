@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kvsharma14.github.io/csb-4wsrd/static/css/main.ea9bab3c.chunk.css",
+    "main.js": "https://kvsharma14.github.io/csb-4wsrd/static/js/main.1418daff.chunk.js",
+    "main.js.map": "https://kvsharma14.github.io/csb-4wsrd/static/js/main.1418daff.chunk.js.map",
+    "runtime-main.js": "https://kvsharma14.github.io/csb-4wsrd/static/js/runtime-main.94ac6bae.js",
+    "runtime-main.js.map": "https://kvsharma14.github.io/csb-4wsrd/static/js/runtime-main.94ac6bae.js.map",
+    "static/js/2.4a14efce.chunk.js": "https://kvsharma14.github.io/csb-4wsrd/static/js/2.4a14efce.chunk.js",
+    "static/js/2.4a14efce.chunk.js.map": "https://kvsharma14.github.io/csb-4wsrd/static/js/2.4a14efce.chunk.js.map",
+    "index.html": "https://kvsharma14.github.io/csb-4wsrd/index.html",
+    "static/css/main.ea9bab3c.chunk.css.map": "https://kvsharma14.github.io/csb-4wsrd/static/css/main.ea9bab3c.chunk.css.map",
+    "static/js/2.4a14efce.chunk.js.LICENSE.txt": "https://kvsharma14.github.io/csb-4wsrd/static/js/2.4a14efce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ac6bae.js",
+    "static/js/2.4a14efce.chunk.js",
+    "static/css/main.ea9bab3c.chunk.css",
+    "static/js/main.1418daff.chunk.js"
+  ]
+}
